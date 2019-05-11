@@ -1,4 +1,7 @@
 This is a dummy file
+<<<<<<< HEAD
 Let's test it out
 
 Adding test from Browser
+=======
+>>>>>>> parent of b1b6be2... this is my first commit
