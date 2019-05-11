@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-=======
-ABC.TXT
-Adding from the browser
->>>>>>> c3429fcced7191b82df2c93e5f72aaf92c727ef7
